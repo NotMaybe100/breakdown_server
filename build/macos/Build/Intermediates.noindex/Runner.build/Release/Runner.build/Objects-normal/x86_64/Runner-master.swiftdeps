@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "809dc036432cfb6b74a2f7e800465cd32023dec42ece93988022314f80f390a4"
+build_start_time: [1684555995, 437795000]
+build_end_time: [1684556001, 525122000]
+inputs:
+  "/Users/raunakraj/breakdown_server_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1684555968, 809292192]
+  "/Users/raunakraj/breakdown_server_app/macos/Runner/AppDelegate.swift": [1684361898, 0]
+  "/Users/raunakraj/breakdown_server_app/macos/Runner/MainFlutterWindow.swift": [1684361898, 0]
