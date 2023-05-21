@@ -1,8 +1,0 @@
-"/Users/raunakraj/breakdown_server_app/macos/Runner/MainFlutterWindow.swift":
-  objc-header: "/Users/raunakraj/breakdown_server_app/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/breakdown_server_app-Swift.h"
-  diagnostics: "/Users/raunakraj/breakdown_server_app/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/Runner-master.dia"
-  dependencies: "/Users/raunakraj/breakdown_server_app/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/Runner-master.d"
-  swiftsourceinfo: "/Users/raunakraj/breakdown_server_app/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/breakdown_server_app.swiftsourceinfo"
-  abi-baseline-json: "/Users/raunakraj/breakdown_server_app/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/breakdown_server_app.abi.json"
-  swiftmodule: "/Users/raunakraj/breakdown_server_app/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/breakdown_server_app.swiftmodule"
-  swiftdoc: "/Users/raunakraj/breakdown_server_app/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/breakdown_server_app.swiftdoc"

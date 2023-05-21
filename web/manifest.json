@@ -1,6 +1,6 @@
 {
-    "name": "breakdown_server_app",
-    "short_name": "breakdown_server_app",
+    "name": "foo",
+    "short_name": "foo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
